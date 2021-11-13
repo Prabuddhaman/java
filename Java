@@ -1,0 +1,15 @@
+package Youtube;
+
+import java.util.Scanner;
+
+
+public class YouTube {
+
+  public static void main(String[] args) {
+   Scanner sc=new Scanner(System.in);
+   double angle=60;
+   double man=Math.toRadians(angle);
+   double cos=Math.sin(man);
+   System.out.print(cos);
+
+//Guys you can  :) do this now
