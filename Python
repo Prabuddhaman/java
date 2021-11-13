@@ -1,0 +1,5 @@
+import random
+randnum=random.randint(1,4)
+print(randnum)#checks random number 
+#do declare import with random and then declare the function random.randint()here
+#i have taken int for the data type i have chocosen
